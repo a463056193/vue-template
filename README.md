@@ -1,6 +1,9 @@
 ## requirement
 ```bash
 Download vscode, install the vue extensions in vscode
+
+# install node.js
+Download URL: https://nodejs.org/en/
 ```
 
 ## Build Setup
@@ -9,8 +12,7 @@ Download vscode, install the vue extensions in vscode
 # enter the project directory
 cd vue-template
 
-# install node.js
-Download URL: https://nodejs.org/en/
+
 
 run 'node -v' in terminal (If the displayed version indicates that the installation is successful)
 
